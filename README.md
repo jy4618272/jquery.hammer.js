@@ -1,4 +1,4 @@
-adapter-jquery
+jquery.hammer.js
 ==============
 
-jQuery adapter for Hammer.js
+jQuery plugin for Hammer.js
